@@ -1,0 +1,6 @@
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEClass\bin\CIEClass.dll.config
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEClass\bin\CIEClass.dll
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEClass\bin\CIEClass.pdb
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEClass\obj\Release\CIEClass.csprojResolveAssemblyReference.cache
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEClass\obj\Release\CIEClass.dll
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEClass\obj\Release\CIEClass.pdb

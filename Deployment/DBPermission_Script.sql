@@ -1,0 +1,10 @@
+GRANT EXEC ON dbo.ItemAdd TO [IIS APPPOOL\DefaultAppPool]
+GRANT EXEC ON dbo.ItemDelete TO [IIS APPPOOL\DefaultAppPool]
+GRANT EXEC ON dbo.ItemGet TO [IIS APPPOOL\DefaultAppPool]
+GRANT EXEC ON dbo.ItemList TO [IIS APPPOOL\DefaultAppPool]
+GRANT EXEC ON dbo.ItemUpdate TO [IIS APPPOOL\DefaultAppPool]
+GRANT EXEC ON dbo.UserAdd TO [IIS APPPOOL\DefaultAppPool]
+GRANT EXEC ON dbo.UserGet TO [IIS APPPOOL\DefaultAppPool]
+GRANT EXEC ON dbo.UserGetByUserName TO [IIS APPPOOL\DefaultAppPool]
+
+grant execute on schema :: dbo to [IIS APPPOOL\DefaultAppPool]

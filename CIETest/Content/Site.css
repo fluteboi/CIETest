@@ -1,0 +1,14 @@
+﻿.form-label {
+    margin: 10px 0 2px 0;
+}
+
+.row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.nav>li>span {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}

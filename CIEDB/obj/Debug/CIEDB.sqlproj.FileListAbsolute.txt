@@ -1,0 +1,9 @@
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEDB\bin\Debug\CIEDB.dacpac
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEDB\obj\Debug\CIEDB.dll
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEDB\obj\Debug\CIEDB.pdb
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEDB\bin\Debug\CIEDB.dll
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEDB\bin\Debug\CIEDB.pdb
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEDB\obj\Debug\Model.xml
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEDB\obj\Debug\refactor.xml
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEDB\obj\Debug\postdeploy.sql
+C:\Users\ChowChow\Documents\Projects\CIETest\CIEDB\obj\Debug\predeploy.sql
